@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rock_big",
-    "path":"sprites/spr_rock_big/spr_rock_big.yy",
+    "name":"spr_maja_big",
+    "path":"sprites/spr_maja_big/spr_maja_big.yy",
   },
   "spriteMaskId":null,
   "visible":true,
